@@ -14,8 +14,11 @@ The project was developed as part of a course research project and followed seve
 The notebook is too large for GitHub preview.
 
 View the full notebook with outputs here:
+
 ➡️ https://nbviewer.org/github/MariaVasilyeva/AI-Emotion-Analysis/blob/main/02_exploratory_data_analysis.ipynb
+
 **Example visualization**
+
 ![Correlation heatmap](images/correlation_heatmap.png)
 
 3. **Hypothesis Testing**
