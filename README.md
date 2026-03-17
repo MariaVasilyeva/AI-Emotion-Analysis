@@ -10,6 +10,9 @@ The project was developed as part of a course research project and followed seve
    - examination of dataset structure and variables
    - descriptive statistics and visualization
    - identification of patterns in user behavior and emotional signals
+The notebook is too large for GitHub preview.
+View the full notebook with outputs here:
+➡️ https://nbviewer.org/github/MariaVasilyeva/AI-Emotion-Analysis/blob/main/02_exploratory_data_analysis.ipynb
 
 3. **Hypothesis Testing**
    - formulation of research hypotheses
