@@ -17,7 +17,7 @@ View the full notebook with outputs here:
 
 ➡️ https://nbviewer.org/github/MariaVasilyeva/AI-Emotion-Analysis/blob/main/02_exploratory_data_analysis.ipynb
 
-**Example visualization**
+**Example visualization: Correlation heatmap**
 
 ![Correlation heatmap](images/correlation_heatmap.png)
 
