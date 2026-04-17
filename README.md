@@ -21,7 +21,7 @@ View the full notebook with outputs here:
 
 ![Correlation heatmap](images/correlation_heatmap.png)
 
-3. **Hypothesis Testing**
+3. [**Hypothesis Testing**](https://github.com/MariaVasilyeva/AI-Emotion-Analysis/blob/86abb30870585681a315f2c300f3a4fb59107d42/03_hypotheses.ipynb)
    - formulation of research hypotheses
    - statistical analysis of relationships between emotional responses, user behavior, and performance
 
